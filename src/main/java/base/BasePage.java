@@ -13,6 +13,10 @@ import java.util.Date;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Logger;
 
+/*
+ * Class is use for common functionality
+ */
+
 public class BasePage {
 
 	protected WebDriver driver;

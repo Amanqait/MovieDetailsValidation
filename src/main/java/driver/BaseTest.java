@@ -12,6 +12,10 @@ import pagesObject.IMDB_page;
 import pagesObject.WikiLanding_page;
 import pagesObject.Wiki_page;
 
+/*
+ * Setting up the driver
+ */
+
 public abstract class BaseTest {
 
   private WebDriver driver;
